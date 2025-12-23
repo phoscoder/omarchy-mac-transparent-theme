@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-omarchy-theme-install https://github.com/zamanlof/Omarchy-Mercury-theme.git
+omarchy-theme-install https://github.com/notzeman/Omarchy-Mac-Transparent-theme.git
 ```
 
 ## Screenshots
