@@ -59,7 +59,7 @@ pkill waybar && waybar &
 
 
 ## Credit 
-This project would be possible without:
+This project wouldn't be possible without:
 
 - [notzeman](https://github.com/notzeman)
 
