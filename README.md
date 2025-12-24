@@ -1,4 +1,4 @@
-# Transparent Theme
+# Mac Transparent Theme
 
 ---
 ## Screenshots
