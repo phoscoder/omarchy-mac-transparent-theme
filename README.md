@@ -3,7 +3,7 @@
 ---
 ## Screenshots
 ![term](https://github.com/zamanlof/Omarchy-Mercury-theme/blob/main/screenshots/s1.png)
-![term](https://github.com/zamanlof/Omarchy-Mercury-theme/blob/main/screenshots/s2.png)
+![term](https://github.com/zamanlof/Omarchy-Mercury-theme/blob/main/screenshots/png)
 ![term](https://github.com/zamanlof/Omarchy-Mercury-theme/blob/main/screenshots/s3.png)
 
 
@@ -58,4 +58,8 @@ pkill waybar && waybar &
 5. Enjoy 😉
 
 
+## Credit 
+This project would be possible without:
+
+- [notzeman](https://github.com/notzeman)
 
