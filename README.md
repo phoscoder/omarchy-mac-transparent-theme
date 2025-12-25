@@ -45,6 +45,13 @@ cp -r cava ~/.config/
 mv waybar ~/.config/
 ```
 
+2.b Set your location in ~/.config/waybar/config.jsonc on line 66
+
+```javascript
+    "exec": "wttrbar --location Malappuram --nerd",  // Current location 
+    "exec": "wttrbar --location Harare --nerd",      // Your custom location
+```
+
 3. Make cava script executable
 ```bash
 chmod 755 ~/.config/waybar/scripts/cava.sh
